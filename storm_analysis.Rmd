@@ -6,7 +6,7 @@ opts_chunk$set(echo=TRUE, results="hide", message=FALSE, warnings=FALSE)
 
 ## Synopsis
 
-This analysis explores the human and economic effects of various weather patterns in the United States. Using the U.S. National Oceanic and Atmospheric Administrations's (NOAA) storm database, the analysis involves determining the human harm, measured by fatalities and injuries, and economic damage, measured by property and crop damage, of different types of weather events.
+This analysis explores the human and economic effects of various weather patterns in the United States. Using the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database, the analysis involves determining the human harm, measured by fatalities and injuries, and economic damage, measured by property and crop damage, of different types of weather events.
 
 Regarding human harm, we calculated the total fatalities and injuries, respectively, for each weather event type. We then isolated the top 10 weather event types ranked by total harms (fatalities plus injuries). Similarly, we examined the average harm per occurrence of each weather event type.
 
